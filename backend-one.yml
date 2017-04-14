@@ -4,3 +4,9 @@ server:
   port: 8000
 message:
   greeting: Hello! This is the backend-one configuration
+spring:
+  data:
+    mongodb:
+      database: people
+      host: localhost
+      port: 27017
