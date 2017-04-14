@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient
+  projectName: backend-one
 server:
   port: 8000
 message:
